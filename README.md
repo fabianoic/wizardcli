@@ -7,6 +7,8 @@ A lightweight command-line interface (CLI) application designed to interact with
 ## 🚀 How to Run
 You will need Java 11 or newer.
 
+For this project I let .jar generated on /out directory.
+
 To start the application, navigate to your project folder in the terminal and locate the `.jar` file in the `out` directory.
 
 Use the following command:
